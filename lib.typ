@@ -41,7 +41,7 @@
   align(center)[
     #block(text(weight: 500, 17pt, title))
     #v(1.5em, weak: true)
-    #text(14pt)[#author, #stu_id]
+    #text(14pt)[#author #stu_id]
     #v(1.5em, weak: true)
     #text(14pt)[#datetime.today().display("[year].[month].[day]")]
     #v(2.0em, weak: true)
